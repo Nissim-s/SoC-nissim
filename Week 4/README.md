@@ -1,0 +1,1 @@
+This week was spent in understanding some remaining theory and code from the book given in week 3,and I also tried implementing a neural network using numpy only to fit a curve given some noisy data, most of the code for it was already given in the book and i made some tweaks to it to fit my data and added some more layers and neurons.
